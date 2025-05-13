@@ -70,6 +70,7 @@ If you want to use your own key, replace the value above with your RapidAPI key.
         └── README.md            # This file
 
 📸 Preview :
+
 ![screenshot](pic.jpg)
 
 
